@@ -30,7 +30,7 @@
                       }
                   }
               }    
-          }
+          },
           "thumbnail" : {
               "resource" : {
                   "url" : "https://uploads-ssl.webflow.com/62bd8b8530fd5116eff7c79e/63359d80b5bd806edb93054f_Frame%201.jpg"
@@ -64,7 +64,7 @@
                       }
                   }
               }    
-          }
+          },
           "thumbnail" : {
               "resource" : {
                   "url" : "https://uploads-ssl.webflow.com/62bd8b8530fd5116eff7c79e/633ac3b70a94952a52522212_THUMBNAIL%20UPDATE%202.png"
@@ -98,7 +98,7 @@
                       }
                   }
               }    
-          }
+          },
           "thumbnail" : {
               "resource" : {
                   "url" : "https://assets-dev.bigvu.tv/defaults/user_icon.png"
