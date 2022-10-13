@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "length": 3,
+    "total": 3
+  },
+  "result": [
+    {
+      "id": "62fd04c0864c9e3ed0145da7",
+      "workshopId": "62fd04c0864c9e3ed0145da7",
+      "expert": {
+        "expertId": "62dd0a2f47e7313090d4052a",
+        "fullName": "secondery dean test user2",
+        "profileImageUrl": "https://assets-dev.bigvu.tv/defaults/user_icon.png"
+      },
+      "title": "BIGVU Webinar",
+      "createdAt": "2022-08-17T15:09:52.051Z",
+      "link": "bigvu://videotips",
+      "lang": "en",
+      "startTime": "2023-01-01T00:05:00.000Z",
+      "endTime": "2023-01-01T01:05:00.000Z",
+      "tags": [
+        
+      ],
+      "promo" : {
+          "video" : {
+              "resource" : {
+                  "streams" : {
+                      "high" : {
+                          "url" : "https://assets.bigvu.tv/storyVideos/60657cd69170e476a148d66e/takes/62270a49328f8b5e753cc4c2/15c89580-2b58-4153-8466-00238cbcda8e/video_360.mp4"
+                      }
+                  }
+              }    
+          }
+          "thumbnail" : {
+              "resource" : {
+                  "url" : "https://uploads-ssl.webflow.com/62bd8b8530fd5116eff7c79e/63359d80b5bd806edb93054f_Frame%201.jpg"
+              }
+          }
+      }
+    },
+    {
+      "id": "630b0cee494c563771f174bc",
+      "workshopId": "630b0cee494c563771f174bc",
+      "expert": {
+        "expertId": "62dd0a2f47e7313090d4052a",
+        "fullName": "secondery dean test user2",
+        "profileImageUrl": "https://assets-dev.bigvu.tv/defaults/user_icon.png"
+      },
+      "title": "BIGVU Webinar",
+      "createdAt": "2022-08-28T06:36:30.415Z",
+      "link": "bigvu://videotips",
+      "lang": "en",
+      "startTime": "2023-01-09T00:05:00.000Z",
+      "endTime": "2023-01-09T01:05:00.000Z",
+      "tags": [
+        
+      ],
+      "promo" : {
+          "video" : {
+              "resource" : {
+                  "streams" : {
+                      "high" : {
+                          "url" : "https://assets.bigvu.tv/storyVideos/602d2c18a627916b54570b42/takes/62270af0a837e802606edd19/adf123a7-7fb8-4d62-b0c1-2377a11a8aa5/video_360.mp4"
+                      }
+                  }
+              }    
+          }
+          "thumbnail" : {
+              "resource" : {
+                  "url" : "https://uploads-ssl.webflow.com/62bd8b8530fd5116eff7c79e/633ac3b70a94952a52522212_THUMBNAIL%20UPDATE%202.png"
+              }
+          }
+      }
+    },
+    {
+      "id": "740a0bec494c563771f174bc",
+      "workshopId": "740a0bec494c563771f174bc",
+      "expert": {
+        "expertId": "62dd0a2f47e7313090d4052a",
+        "fullName": "secondery dean test user2",
+        "profileImageUrl": "https://assets-dev.bigvu.tv/defaults/user_icon.png"
+      },
+      "title": "BIGVU Webinar",
+      "createdAt": "2022-09-14T011:30:30.415Z",
+      "link": "bigvu://videotips",
+      "lang": "en",
+      "startTime": "2023-01-09T00:05:00.000Z",
+      "endTime": "2023-01-09T01:05:00.000Z",
+      "tags": [
+        
+      ],
+      "promo" : {
+          "video" : {
+              "resource" : {
+                  "streams" : {
+                      "high" : {
+                          "url" : "https://assets.bigvu.tv/storyVideos/60efd21b251ef2f86a195253/takes/620a624b3fe4b3680bfb3683/6eb3e01d-82af-4000-b6a1-95ce46490e64/video_360.mp4"
+                      }
+                  }
+              }    
+          }
+          "thumbnail" : {
+              "resource" : {
+                  "url" : "https://assets-dev.bigvu.tv/defaults/user_icon.png"
+              }
+          }
+      }
+    }
+  ]
+}
